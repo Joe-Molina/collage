@@ -1,0 +1,19 @@
+ <!DOCTYPE html>
+
+<html>
+    <head>
+        <title>escoge tu personaje</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="fotos collaje.css">
+        <link rel="stylesheet" type="text/css" href="">
+        <link href="https://fonts.googleapis.com/css2?family=Ranchers&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    </head> 
+    <body>
+      <div class="container"> 
+        <div class="clip clip1"></div>
+        <div class="clip clip2"></div>
+        <div class="clip clip3"></div>
+      </div>
+    </body>
+</html>
